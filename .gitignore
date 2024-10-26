@@ -31,3 +31,7 @@
 # Folders
 build/
 *~
+
+# egg-info
+deepgaze.egg-info/
+dist/
